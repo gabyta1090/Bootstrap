@@ -1,0 +1,49 @@
+body{
+    max-width: 100%;
+}
+
+.img-fluid{
+    max-width: 90%;
+    margin: 40px 60px;
+}
+
+.btn{
+    background-color: #88C9C8;
+    transition: all .3s;
+}
+
+.btn:hover{
+    background-color: #88C9C8;
+    transition: all .3s;
+    transform: scale(0.8);
+}
+
+.redes-img img{
+    width: 50px;
+}
+
+.bg-grey{
+    background-color: #D7D7D7;
+}
+
+.bg-greydk{
+    background-color: #dfdbdb;
+}
+
+
+/* Media Queries */
+@media (max-width: 992px){
+
+}
+
+@media (max-width: 768px){
+    
+}
+
+@media (max-width: 576px){
+    
+}
+
+@media (max-width: 575px){
+    
+}
